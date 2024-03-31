@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "6_kisbeadando": {
+      "commandName": "Project",
+      "commandLineArgs": "6_feladat_bemenet.txt"
+    }
+  }
+}
